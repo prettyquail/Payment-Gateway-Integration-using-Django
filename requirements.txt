@@ -1,0 +1,17 @@
+asgiref==3.2.3
+astor==0.8.1
+Django==3.0.3
+gunicorn==20.0.4
+h5py==2.10.0
+Keras-Applications==1.0.8
+Markdown==3.2.1
+numpy==1.18.1
+Pillow==7.0.0
+psycopg2==2.8.4
+pytz==2019.3
+six==1.14.0
+sqlparse==0.3.0
+virtualenv==16.7.9
+virtualenvwrapper-win==1.2.5
+Werkzeug==1.0.0
+whitenoise==5.2.0
